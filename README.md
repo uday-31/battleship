@@ -1,7 +1,7 @@
 # battleship
 Implementation of the Battleship game on Python using Pygame
 
-Developed in March 2019 for the requirements of the module CZ1003 Introduction to Computational Thinking.
+Developed in March 2019 for the requirements of the module CZ1003 Introduction to Computational Thinking, along with group members Tay Quan Rui and Teh Siang Wen.
 
 # Launch screen
 
